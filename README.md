@@ -4,6 +4,9 @@ how to use Git and Github together
 
 ## Introduction
 
+This Introduction   for showing
+how to use Git and Github together
+
 
 ## Purpose
 

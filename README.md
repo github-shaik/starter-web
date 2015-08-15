@@ -10,7 +10,16 @@ how to use Git and Github together
 
 ## Purpose
 
+This is purpose   for showing
+how to use Git and Github together
+
+
 ## Deployment
+
+
+This is Deployment   for showing
+how to use Git and Github together
+
 
 ## How to Contribute
 

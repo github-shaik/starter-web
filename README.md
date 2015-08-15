@@ -22,5 +22,5 @@ how to use Git and Github together
 
 
 ## How to Contribute
-
+Please fork this repository and issue pull requrest
 2014 git.Training more text More more text

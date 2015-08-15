@@ -23,4 +23,4 @@ how to use Git and Github together
 
 ## How to Contribute
 
-2014 git.Training.
+2014 git.Training more text More more text
